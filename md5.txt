@@ -1,0 +1,3 @@
+douglas@douglas-Topone-series:/media/douglas/新加卷1$ md5sum rk_android12_240819.tgz 
+5f8b1c08957ce4af868a7821c0dd18fd  rk_android12_240819.tgz
+
